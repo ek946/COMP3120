@@ -1,0 +1,4 @@
+daeun-VirtualBox:~/COMP3120/lab4$ ./ex7
+1514270338 : 363755(sec : usec)
+current time : 2017-12-26 15:38:58.363755
+

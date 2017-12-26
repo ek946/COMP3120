@@ -1,0 +1,55 @@
+
+NUM = 1000000000
+
+&&&&&<without lock>
+<- thread 2 ->
+start time-> 1514274873:278680
+end time-> 1514274876:157884
+counter time-> 3:-120796
+
+<- thread 5 ->
+tart time-> 1514274912:960174
+end time-> 1514274916:240843
+counter time-> 4:-719331
+
+<- thread 10 ->
+start time-> 1514274951:336761
+end time-> 1514274954:887605
+counter time-> 3:550844
+
+<- thread 20 ->
+tart time-> 1514274988:329316
+end time-> 1514274992:152645
+counter time-> 4:-176671
+
+<- thread 50 ->
+start time-> 1514275026:627398
+end time-> 1514275035:980367
+counter time-> 9:352969
+
+&&&&&<with lock>
+<- thread 2 ->
+start time-> 1514276727:261653
+end time-> 1514276752:990270
+count time-> 25:728617
+
+<- thread 5 ->
+start time-> 1514276800:901819
+end time-> 1514276826:197042
+count time-> 26:-704777
+
+<- thread 10 ->
+start time-> 1514276884:604766
+end time-> 1514276909:934554
+count time-> 25:329788
+
+<- thread 20 ->
+start time-> 1514277053:431588
+end time-> 1514277078:930079
+count time-> 25:498491
+
+<- thread 50 ->
+start time-> 1514283721:961020
+end time-> 1514283747:346898
+count time-> 26:-614122
+

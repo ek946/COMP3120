@@ -1,0 +1,12 @@
+total 72
+-rwxrwxr-x 1 daeun daeun 8808 12월 26 13:38 ex1
+-rw-rw-r-- 1 daeun daeun  501 12월 26 14:02 ex1.c
+-rw-rw-r-- 1 daeun daeun  124 12월 26 13:39 ex1_result.txt
+-rwxrwxr-x 1 daeun daeun 8912 12월 26 14:45 ex2
+-rw-rw-r-- 1 daeun daeun  448 12월 26 14:45 ex2.c
+-rwxrwxr-x 1 daeun daeun 8808 12월 26 14:09 ex3
+-rw-rw-r-- 1 daeun daeun  296 12월 26 14:09 ex3.c
+-rw-rw-r-- 1 daeun daeun   15 12월 26 14:12 ex3_result.txt
+-rwxrwxr-x 1 daeun daeun 8808 12월 26 14:37 ex4
+-rw-rw-r-- 1 daeun daeun  260 12월 26 14:37 ex4.c
+-rw-rw-r-- 1 daeun daeun    0 12월 26 14:49 ex4_result.txt

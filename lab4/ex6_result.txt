@@ -1,0 +1,4 @@
+child : 4
+parent : 3
+parent ouput : simple txt
+

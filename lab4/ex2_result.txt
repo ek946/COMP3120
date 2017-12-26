@@ -1,0 +1,7 @@
+
+prent number 3
+child number 3
+
+same file descriptor
+
+can not write at the same time.

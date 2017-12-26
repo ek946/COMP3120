@@ -1,0 +1,12 @@
+
+wait() in the parent>
+daeun-VirtualBox:~/COMP3120/lab4$ ./ex5
+I am child
+I am parent
+
+
+wait() in the child>
+daeun@daeun-VirtualBox:~/COMP3120/lab4$ ./ex5
+I am parent
+daeun@daeun-VirtualBox:~/COMP3120/lab4$ I am child
+
